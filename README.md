@@ -3,7 +3,7 @@
 🎓 I'm a 3rd-year B.Tech Computer Science and Business Systems student at KIT - Kalaignar Karunanidhi Institute of Technology  
 💻 Passionate about Web Development, Data Structures & Algorithms, and Competitive Programming  
 🚀 Currently building projects with HTML, CSS, JavaScript, Python, and exploring Flask for backend development  
-🛠️ Tech I enjoy working with:
+
 
 Languages:  Java, C,Python, SQL, JavaScript  
 
